@@ -1,0 +1,16 @@
+﻿{
+  "Metadata": {
+    "Id": "69a2dee7-d9fc-467e-a124-af871bb85010",
+    "Kind": "FormIo"
+  },
+  "DesignProperties": {
+    "Title": "NewForm",
+    "Theme": "Default",
+    "ShowInTaskbar": true,
+    "ShowMargin": true,
+    "CustomStyle": ""
+  },
+  "Data": {
+    "components": []
+  }
+}
